@@ -1,0 +1,2 @@
+* Event Extraction
+A dev project to use NLTK for event extraction
